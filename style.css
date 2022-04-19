@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    /* background-color:blue; */
+}
+.header{
+    display: flex;
+    padding: 3px;
+    justify-content: space-between;
+    background-color: #7281db;
+    
+}
+.linklogo{
+    /* padding-top: 5px; */
+
+    padding-left: 30px;
+    height: 20px;
+    width: 20px;
+}
+.search{
+    height: 15px;
+}
+.partition{
+    display: flex;
+    padding-top: 10px;
+    justify-content: space-around;
+}
+.left{
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+.leftback{
+    height: 50px;
+    width: 80px;
+}
+.centertop{
+    margin-bottom: 10px;
+}
+.Jess{
+}
+.center{
+  margin-bottom: 10px;    
+}
